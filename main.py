@@ -69,7 +69,7 @@ async def read_all_books() -> list[BookResponse]:
         {
             "id": 3,
             "title": "My FastAPI ",
-            "author": "A130E105",  # 這裡換成你的學號！
+            "author": "Mina",
         },
     ]
 
